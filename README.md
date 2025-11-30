@@ -133,7 +133,7 @@ PlanCraft AI is a web application that helps users find the perfect subscription
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/ramprasadsharma-engineer/plancraft-ai.git
 cd plan-roi-assistant-main
 
 # Install all dependencies
